@@ -1,0 +1,12 @@
+See http://www.zafar.se/bloom-filter-notes.html for more info.
+
+Depedencies:
+
+murmur3
+https://github.com/bkz/murmur3
+
+bitarray
+http://pypi.python.org/pypi/bitarray
+
+redis-py (optional)
+https://github.com/andymccurdy/redis-py
